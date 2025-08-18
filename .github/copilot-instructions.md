@@ -1,4 +1,4 @@
-# Copilot Directives (Short)
+# Copilot Directives 
 
 - Use **English** for all code and documentation.
 - Always follow the **docs style guide**; if missing, ask.
